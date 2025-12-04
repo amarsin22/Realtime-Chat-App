@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small custom styles for chat bubbles */
+.chat-bubble {
+  @apply max-w-[70%] p-3 rounded-lg break-words;
+}
+.chat-bubble.me { @apply bg-gray-200 self-end rounded-tr-none; }
+.chat-bubble.other { @apply bg-white self-start rounded-tl-none; }
