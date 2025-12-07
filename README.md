@@ -1,24 +1,24 @@
 # 💬 Realtime Chat App
 
-A full-stack **Real-Time Chat Application** that allows users to communicate instantly using WebSocket technology. Built with a modern tech stack, this project demonstrates real-time communication, user interaction, and scalable backend architecture.
+A full-stack **Real-Time Chat Application** built with **React and Node.js** that allows users to communicate instantly using WebSocket technology. This project demonstrates real-time communication, modern frontend development, and scalable backend architecture.
 
 ---
 
 ## 🚀 Features
 
-- ✅ Real-time messaging
-- ✅ User authentication
-- ✅ One-to-one chat
-- ✅ Live message updates without refreshing
-- ✅ Clean and responsive UI
-- ✅ Secure server-client communication
+- ✅ Real-time messaging  
+- ✅ User authentication  
+- ✅ One-to-one chat  
+- ✅ Live message updates without page refresh  
+- ✅ Responsive React UI  
+- ✅ Secure server-client communication  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend**
-- HTML
+- React.js
 - CSS
 - JavaScript
 
@@ -35,7 +35,7 @@ A full-stack **Real-Time Chat Application** that allows users to communicate ins
 
 Realtime-Chat-App/
 │
-├── client/ # Frontend files
+├── client/ # React frontend
 ├── server/ # Backend logic & APIs
 ├── package.json
 └── README.md
