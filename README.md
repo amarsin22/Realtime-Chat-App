@@ -19,7 +19,7 @@ A full-stack **Real-Time Chat Application** built with **React and Node.js** tha
 
 **Frontend**
 - React.js
-- CSS
+- Tailwind CSS
 - JavaScript
 
 **Backend**
